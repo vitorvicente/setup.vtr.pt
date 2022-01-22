@@ -1,4 +1,4 @@
-# setup.grandmen123.com
+# setup.vtr.pt
 
 This website serves as a public listing of the contents of my setups both in Portugal and in the US. It was made as a part of my Public Business website, which is composed by this unlisted page, a services website, a content creation website, and a landing page.
 
